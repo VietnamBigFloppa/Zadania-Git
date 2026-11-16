@@ -1,3 +1,4 @@
+# Автор: Демильханов
 """
 Django settings for config project.
 
